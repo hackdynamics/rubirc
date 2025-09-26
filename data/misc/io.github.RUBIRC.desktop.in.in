@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=RUBIRC
+GenericName=IRC Client
+Comment=Chat with other people online
+Keywords=IM;Chat;
+Exec=@exec_command@
+Icon=io.github.RUBIRC
+Terminal=false
+Type=Application
+Categories=GTK;Network;IRCClient;
+StartupNotify=true
+StartupWMClass=RUBIRC
+X-GNOME-UsesNotifications=true
+MimeType=x-scheme-handler/irc;x-scheme-handler/ircs;
+Actions=SafeMode;
+
+[Desktop Action SafeMode]
+Name=Open Safe Mode
+Exec=rubirc --no-auto --no-plugins

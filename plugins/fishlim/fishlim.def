@@ -1,0 +1,4 @@
+EXPORTS 
+rubirc_plugin_init 
+rubirc_plugin_deinit 
+rubirc_plugin_get_info 

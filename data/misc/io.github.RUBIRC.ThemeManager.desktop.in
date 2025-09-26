@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=RUBIRC Theme Manager
+Exec=thememan %f
+Icon=rubirc
+Terminal=false
+Type=Application
+MimeType=application/x-hct;

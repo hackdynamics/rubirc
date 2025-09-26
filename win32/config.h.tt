@@ -1,0 +1,14 @@
+#define LOCALEDIR ".\\share\\locale"
+#define ENABLE_NLS
+#define USE_PLUGIN
+#define USE_OPENSSL
+#define HAVE_ISO_CODES
+#define ISO_CODES_PREFIX ".\\"
+#define ISO_CODES_LOCALEDIR LOCALEDIR
+#define PACKAGE_NAME "rubirc"
+#define PACKAGE_VERSION "<#= [string]::Join('.', $versionParts) #>"
+#define RUBIRCLIBDIR ".\\plugins"
+#define RUBIRCSHAREDIR "."
+#define OLD_PERL
+#define GETTEXT_PACKAGE "rubirc"
+#define PACKAGE_TARNAME "rubirc-<#= [string]::Join('.', $versionParts) #>"
