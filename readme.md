@@ -9,12 +9,6 @@ For more information on RUBIRC please read our [documentation](https://rubirc.re
 - [Python API](https://rubirc.readthedocs.org/en/latest/script_python.html)
 - [Perl API](https://rubirc.readthedocs.org/en/latest/script_perl.html)
 
-Ubuntu make:
-apt install meson libcanberra-dev libdbus-glib-1-dev libglib2.0-dev libgtk2.0-dev libluajit-5.1-dev libpci-dev libperl-dev libssl-dev python3-dev python3-cffi mono-devel desktop-file-utils
-meson build
-ninja -C build
-ninja -C build install
-
 ---
 
 <sub>
