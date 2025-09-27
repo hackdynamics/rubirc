@@ -11,8 +11,9 @@ For more information on RUBIRC please read our [documentation](https://rubirc.re
 - [Perl API](https://rubirc.readthedocs.org/en/latest/script_perl.html)
 
 ---
-
+<center>
 <img src="https://github.com/hackdynamics/rubirc/blob/main/rubirc-linux.png?raw=true">
+</center>
 
 Ubuntu make:
 
