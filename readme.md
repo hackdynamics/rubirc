@@ -12,7 +12,7 @@ For more information on RUBIRC please read our [documentation](https://rubirc.re
 
 ---
 
-[IMG]https://github.com/hackdynamics/rubirc/blob/main/rubirc-linux.png?raw=true[/IMG]
+<img src="https://github.com/hackdynamics/rubirc/blob/main/rubirc-linux.png?raw=true">
 
 Ubuntu make:
 
