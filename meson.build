@@ -1,5 +1,5 @@
 project('rubirc', 'c',
-  version: '3.16.4',
+  version: '3.17.4',
   meson_version: '>= 0.47.0',
   default_options: [
     'c_std=gnu89',

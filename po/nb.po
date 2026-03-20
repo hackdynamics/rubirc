@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the rubirc package.
 # 
 # Translators:
-# Allan Nordhøy <epost@anotheragency.no>, 3.16.4017
+# Allan Nordhøy <epost@anotheragency.no>, 3.17.4017
 # Johnny A. Solbu <johnny@solbu.net>, 2015,2017
 # Johnny A. Solbu <transifex@solbu.net>, 2015
 # Johnny A. Solbu <transifex@solbu.net>, 2015

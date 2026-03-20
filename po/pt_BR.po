@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the rubirc package.
 # 
 # Translators:
-# Aníbal Deboni Neto <adneto@outlook.com>, 2014-3.16.4018
+# Aníbal Deboni Neto <adneto@outlook.com>, 2014-3.17.4018
 # Flamarion Jorge <flamarilinux@yahoo.com.br>, 2009
 # Flamarion Jorge <jorge.flamarion@gmail.com>, 2012
 # Flamarion Jorge <jorge.flamarion@gmail.com>, 2012

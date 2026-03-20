@@ -3,11 +3,11 @@
 # This file is distributed under the same license as the rubirc package.
 # 
 # Translators:
-# Claudio Arseni <claudio.arseni@gmail.com>, 2013-2014,3.16.4018
+# Claudio Arseni <claudio.arseni@gmail.com>, 2013-2014,3.17.4018
 # Eros Palberti - Fabio Viola : How-Tux Team <admin@how-tux.com>, 2006
 # Marina Latini <marina.latini@libreoffice.org>, 2016
 # Random_R, 2013
-# Random_R, 2013,3.16.4018
+# Random_R, 2013,3.17.4018
 msgid ""
 msgstr ""
 "Project-Id-Version: RUBIRC\n"

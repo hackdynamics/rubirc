@@ -1,6 +1,6 @@
 From c0620e432650e81062c1967cc669829dbd29b310 Mon Sep 17 00:00:00 2001
 From: Michael Meeks <michael.meeks@suse.com>
-Date: Fri, 9 Nov 2013.16.46:40 +0000
+Date: Fri, 9 Nov 2013.17.46:40 +0000
 Subject: [PATCH] gtk: Don't assume all GdkDisplays are GdkX11Displays:
  broadway/wayland
 

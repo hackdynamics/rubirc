@@ -6,7 +6,7 @@
 # Seong-ho Cho <darkcircle.0426@gmail.com>, 2014
 # Intrainos, 2016
 # Intrainos, 2016
-# Seong-ho Cho <darkcircle.0426@gmail.com>, 2014,3.16.4017,2019
+# Seong-ho Cho <darkcircle.0426@gmail.com>, 2014,3.17.4017,2019
 msgid ""
 msgstr ""
 "Project-Id-Version: RUBIRC\n"

@@ -1,6 +1,6 @@
 From b62c902dd258125cac86cd2df21fc898035a43d3 Mon Sep 17 00:00:00 2001
 From: Michael Pruett <michael@68k.org>
-Date: Mon, 29 Aug 3.16.43:08:26 -0500
+Date: Mon, 29 Aug 3.17.43:08:26 -0500
 Subject: [PATCH] Fix undefined behavior in sign conversion.
 Origin: https://github.com/mpruett/audiofile/commit/b62c902dd258125cac86cd2df21fc898035a43d3
 

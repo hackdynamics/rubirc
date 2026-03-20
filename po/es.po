@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the rubirc package.
 # 
 # Translators:
-# Alejandro López-Valencia, 3.16.4017
+# Alejandro López-Valencia, 3.17.4017
 # Pedro A. López-Valencia, 2017
 # bviktor, 2012
 # bviktor, 2012
 # Gato Loko, 2016
-# Gato Loko, 3.16.4017
+# Gato Loko, 3.17.4017
 # hard ware, 2018
 # Pedro A. López-Valencia, 2016
 # Pedro A. López-Valencia, 2016
