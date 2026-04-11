@@ -4,7 +4,7 @@
 
 Summary: A popular and easy to use graphical IRC (chat) client
 Name: rubirc
-Version: 3.16.4
+Version: 3.17.4
 Release: alt2
 License: GPLv2+
 Group: Networking/IRC
