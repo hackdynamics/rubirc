@@ -18,10 +18,13 @@ For more information on RUBIRC please read our [documentation](https://rubirc.re
 ---
 <center><img src="https://github.com/hackdynamics/rubirc/blob/main/rubirc-linux.png"></center>
 <br>
-<sub>
-X-Chat ("xchat") Copyright (c) 1998-2010 By Peter Zelezny.  
-HexChat ("hexchat") Copyright (c) 2009-2014 By Berke Viktor.
-RUBIRC ("rubirc") Copyright (c) 2023-2026 By Alexey Kuleshov.
+AltLinux build. Пакет для Альт Линукс<br>
+https://dchub.one/pub/Soft/rubirc/alt/rubirc-3.17.4-alt2.x86_64.rpm<br>
+
+<sub><br>
+X-Chat ("xchat") Copyright (c) 1998-2010 By Peter Zelezny.  <br>
+HexChat ("hexchat") Copyright (c) 2009-2014 By Berke Viktor. <br>
+RUBIRC ("rubirc") Copyright (c) 2023-2026 By Alexey Kuleshov. <br>
 </sub>
 
 <sub>
