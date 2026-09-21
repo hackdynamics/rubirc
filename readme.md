@@ -10,11 +10,24 @@ For more information on RUBIRC please read our [documentation](https://rubirc.re
 - [Perl API](https://rubirc.readthedocs.org/en/latest/script_perl.html)
 
 ---
+---
 
-<sub>
-X-Chat ("xchat") Copyright (c) 1998-2010 By Peter Zelezny.  
-HexChat ("hexchat") Copyright (c) 2009-2014 By Berke Viktor.
-RUBIRC ("rubirc") Copyright (c) 2023-2024 By Alexey Kuleshov.
+<center>
+<img src="https://github.com/hackdynamics/rubirc/blob/main/rubirc-linux.png"><br><br>....<br><br>
+<img src="https://github.com/hackdynamics/rubirc/blob/main/rubirc-win.png">
+</center>
+<br>
+Build on Linux:<br>
+# apt install meson libcanberra-dev libdbus-glib-1-dev libglib2.0-dev libgtk2.0-dev libluajit-5.1-dev libpci-dev libperl-dev libssl-dev python3-dev python3-cffi mono-devel desktop-file-utils<br>
+# meson build<br>
+# ninja -C build<br>
+# ninja -C build install<br>
+<br>
+<sub> 
+X-Chat ("xchat") Copyright (c) 1998-2010 By Peter Zelezny. <br>
+HexChat ("hexchat") Copyright (c) 2009-2014 By Berke Viktor.<br>
+RUBIRC ("rubirc") Copyright (c) 2023-2026 By  Alexey Kuleshov.<br>
+ARABICON ("arabicon") Copyright (c) 2006 By Alexey Kuleshov. <br>
 </sub>
 
 <sub>
