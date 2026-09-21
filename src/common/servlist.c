@@ -51,7 +51,7 @@ struct defaultserver
 static const struct defaultserver def[] =
 {
 
-	{"Русский", 0, 0, 0},	
+	{"Русский", 0},	
 	{0,			"irc.tomsk.net/9996"},
 	
 		{"Український", 0, 0, 0},	

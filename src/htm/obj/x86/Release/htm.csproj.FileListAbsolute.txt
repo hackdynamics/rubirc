@@ -1,0 +1,10 @@
+C:\Users\Alexey\Downloads\rubirc\rubirc-3.17.4\rubirc-build\Win32\bin\thememan.exe.config
+C:\Users\Alexey\Downloads\rubirc\rubirc-3.17.4\rubirc-build\Win32\bin\thememan.exe
+C:\Users\Alexey\Downloads\rubirc\rubirc-3.17.4\rubirc-build\Win32\bin\thememan.pdb
+C:\Users\Alexey\Downloads\rubirc\rubirc-3.17.4\rubirc-3.17.4\src\htm\obj\x86\Release\htm.csproj.AssemblyReference.cache
+C:\Users\Alexey\Downloads\rubirc\rubirc-3.17.4\rubirc-3.17.4\src\htm\obj\x86\Release\thememan.HTM.resources
+C:\Users\Alexey\Downloads\rubirc\rubirc-3.17.4\rubirc-3.17.4\src\htm\obj\x86\Release\thememan.Properties.Resources.resources
+C:\Users\Alexey\Downloads\rubirc\rubirc-3.17.4\rubirc-3.17.4\src\htm\obj\x86\Release\htm.csproj.GenerateResource.cache
+C:\Users\Alexey\Downloads\rubirc\rubirc-3.17.4\rubirc-3.17.4\src\htm\obj\x86\Release\htm.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Downloads\rubirc\rubirc-3.17.4\rubirc-3.17.4\src\htm\obj\x86\Release\thememan.exe
+C:\Users\Alexey\Downloads\rubirc\rubirc-3.17.4\rubirc-3.17.4\src\htm\obj\x86\Release\thememan.pdb
