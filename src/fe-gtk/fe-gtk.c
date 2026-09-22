@@ -1229,8 +1229,8 @@ const char *
 fe_get_default_font (void)
 {
 #ifdef WIN32
-	if (gtkutil_find_font ("Tahoma"))
-		return "Tahoma 9";
+	if (gtkutil_find_font ("Segoe UI"))
+		return "Segoe UI 9";
 	else
 #else
 #ifdef __APPLE__
