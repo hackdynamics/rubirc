@@ -64,7 +64,7 @@ static const struct defaultserver def[] =
 	{0,			"irc.libera.chat/6697"},
 	
 	{"English", 0, 0, 0},	
-	{0,			"irc.freenode.net/6697"},
+	{0,			"irc.pureirc.us/6697"},
 	
 			{"Italiano", 0, 0, 0},
 	{0,			"1.1.1.1/6697"},
