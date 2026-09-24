@@ -67,9 +67,9 @@ static const struct defaultserver def[] =
 	{0,			"irc.pureirc.us/6697"},
 	
 			{"Italiano", 0, 0, 0},
-	{0,			"1.1.1.1/6697"},
+	{0,			"irc.ircitalia.it/6697"},
 			{"Français", 0, 0, 0},
-	{0,			"1.1.1.1/6697"},
+	{0,			"irc.chatnova.fr/6697"},
 	{"العربية", 0, 0, 0},	
 	{0,			"irc.azirc.net/6697"},
 
@@ -81,7 +81,7 @@ static const struct defaultserver def[] =
 	{"Afrikaans", 0, 0, 0},	
 	{0,			"1.1.1.1"},
 	{"Português", 0, 0, 0},	
-	{0,			"1.1.1.1"},
+	{0,			"irc.brasirc.com.br/6697"},
         {"Lietuviškas", 0, 0, 0},	
 	{0,			"irc.data.lt/6668"},
        {"Deutsch", 0, 0, 0},	
